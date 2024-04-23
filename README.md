@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jawad Ahmad</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jawadahmaad10&label=Profile%20views&color=0e75b6&style=flat" alt="jawadahmaad10" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawadahmaad10" alt="jawadahmaad10" /></a> </p>
-
 - 🌱 I’m currently learning **Javascript,React,Node**
 
-- 💬 Ask me about **Flutter,Javascript**
+- 💬 Ask me about **Flutter,Javasceript**
 
 - 📫 How to reach me **jawadjavedali@gmail.com**
 
@@ -23,7 +19,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmaad10&" alt="jawadahmaad10" /></p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jawadahmaad10&show_icons=true&locale=en&layout=compact" alt="jawadahmaad10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmaad10&" alt="jawadahmaad10" /></p>
