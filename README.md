@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jawad Ahmad</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🌱 I’m currently learning **Javascript,React,Node**
+- 🌱 I’m currently learning **Javascript, React, Node**
 
-- 💬 Ask me about **Flutter,Javascript **
+- 💬 Ask me about **Flutter, Javascript **
 
 - 📫 How to reach me **jawadjavedali@gmail.com**
 
